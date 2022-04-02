@@ -1,5 +1,5 @@
 # Basic Keylogger
-*made by Kerell62*
+*made by Kerell*
 
 ## Features:
 
